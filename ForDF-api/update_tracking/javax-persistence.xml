@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="javax.persistence">
+    <module_version install_time="1300457787174" last="true" origin="installer" specification_version="">
+        <file crc="1456265733" name="dist/lib/eclipselink-javax.persistence-2.0.jar"/>
+        <file crc="3973711516" name="config/Modules/javax-persistence.xml"/>
+    </module_version>
+</module>

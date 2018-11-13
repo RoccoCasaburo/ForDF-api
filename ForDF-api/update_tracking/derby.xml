@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="derby">
+    <module_version install_time="1300457787142" last="true" origin="installer" specification_version="">
+        <file crc="2066618074" name="dist/lib/derby.jar"/>
+        <file crc="407773794" name="config/Modules/derby.xml"/>
+    </module_version>
+</module>
